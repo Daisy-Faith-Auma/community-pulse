@@ -1,0 +1,13 @@
+{
+  "note": "Sample data for a demo app. Not real Qt figures.",
+  "programs": [
+    {"name": "Forum newcomers", "region": "Global", "channel": "Forum", "newDevs": 1200, "returning": 540},
+    {"name": "QML learning path", "region": "Global", "channel": "Learning", "newDevs": 900, "returning": 310},
+    {"name": "Vibe-coding challenge", "region": "Global", "channel": "Event", "newDevs": 450, "returning": 95},
+    {"name": "Rust bridge early adopters", "region": "Europe", "channel": "Beta group", "newDevs": 80, "returning": 51},
+    {"name": "University C++ workshop", "region": "Europe", "channel": "University", "newDevs": 160, "returning": 72},
+    {"name": "C++ contributor sprint", "region": "Europe", "channel": "Contributors", "newDevs": 40, "returning": 31},
+    {"name": "Student hackathon", "region": "Africa", "channel": "Event", "newDevs": 220, "returning": 48},
+    {"name": "Python meetup", "region": "Africa", "channel": "Meetup", "newDevs": 60, "returning": 22}
+  ]
+}
